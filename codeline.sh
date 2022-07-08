@@ -1,0 +1,1 @@
+find . -name "*[.c|.h]" -type f |xargs cat|wc -l

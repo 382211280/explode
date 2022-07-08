@@ -1,0 +1,372 @@
+[2022-6-26 21:33:46][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-26 21:34:43][file:explode.c,function:main,line:14] size_t = 8
+[2022-6-26 21:34:43][file:explode.c,function:main,line:15] uint64_t = 8
+[2022-6-26 21:34:43][file:explode.c,function:main,line:16] uint16_t = 2
+[2022-6-26 21:34:43][file:explode.c,function:main,line:17] uint8_t = 1
+[2022-6-26 21:34:43][file:explode.c,function:main,line:18] uint32_t = 4
+[2022-6-26 21:34:43][file:explode.c,function:main,line:19] int  = 4
+[2022-6-26 21:34:43][file:explode.c,function:main,line:20] long = 8
+[2022-6-26 21:34:43][file:explode.c,function:main,line:21] char = 1
+[2022-6-26 21:34:43][file:explode.c,function:main,line:22] float = 4
+[2022-6-26 21:34:43][file:explode.c,function:main,line:23] long long  = 8
+[2022-6-26 21:34:44][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+
+[2022-6-26 21:34:44][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-26 21:34:44][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-26 21:34:44][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-26 21:34:44][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-26 21:34:44][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-26 21:34:44][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-26 21:34:43][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-26 21:34:43][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-26 21:34:43][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-26 21:34:43][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-26 21:34:43][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-26 21:35:26][file:explode.c,function:main,line:14] size_t = 8
+[2022-6-26 21:35:26][file:explode.c,function:main,line:15] uint64_t = 8
+[2022-6-26 21:35:26][file:explode.c,function:main,line:16] uint16_t = 2
+[2022-6-26 21:35:26][file:explode.c,function:main,line:17] uint8_t = 1
+[2022-6-26 21:35:26][file:explode.c,function:main,line:18] uint32_t = 4
+[2022-6-26 21:35:26][file:explode.c,function:main,line:19] int  = 4
+[2022-6-26 21:35:26][file:explode.c,function:main,line:20] long = 8
+[2022-6-26 21:35:26][file:explode.c,function:main,line:21] char = 1
+[2022-6-26 21:35:26][file:explode.c,function:main,line:22] float = 4
+[2022-6-26 21:35:26][file:explode.c,function:main,line:23] long long  = 8
+[2022-6-26 21:35:26][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-26 21:35:26][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-26 21:35:26][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-26 21:35:26][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-26 21:35:26][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-26 21:35:26][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-26 21:35:26][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-26 21:35:26][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-26 21:35:26][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-26 21:35:26][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-26 21:35:26][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-26 21:35:26][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:09:48][file:explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:09:48][file:explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:09:48][file:explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:09:48][file:explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:09:48][file:explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:09:48][file:explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:09:48][file:explode.c,function:main,line:21] long = 8
+[2022-6-27 20:09:48][file:explode.c,function:main,line:22] char = 1
+[2022-6-27 20:09:48][file:explode.c,function:main,line:23] float = 4
+[2022-6-27 20:09:48][file:explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:09:48][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:09:48][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:09:48][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:09:48][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:09:48][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 20:09:48][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 20:09:48][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 20:09:48][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 20:09:48][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 20:09:48][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 20:09:48][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 20:09:48][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:09:48][file:explode.c,function:main,line:36] [2022-6-27 20:09:48]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:21] long = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:22] char = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:23] float = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:21] long = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:22] char = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:23] float = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:36] [2022-6-27 20:17:29]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:21] long = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:22] char = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:23] float = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:36] [2022-6-27 20:17:29]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:21] long = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:22] char = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:23] float = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:36] [2022-6-27 20:17:29]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:21] long = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:22] char = 1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:23] float = 4
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:17:29][file:/home/parallels/workspace/explode/explode.c,function:main,line:36] [2022-6-27 20:17:29]
+[2022-6-27 20:19:33][file:explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:19:33][file:explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:19:33][file:explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:19:33][file:explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:19:33][file:explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:19:33][file:explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:19:33][file:explode.c,function:main,line:21] long = 8
+[2022-6-27 20:19:33][file:explode.c,function:main,line:22] char = 1
+[2022-6-27 20:19:33][file:explode.c,function:main,line:23] float = 4
+[2022-6-27 20:19:33][file:explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:19:34][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:19:34][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:19:34][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:19:34][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:19:34][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 20:19:34][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 20:19:34][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 20:19:33][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:19:33][file:explode.c,function:main,line:36] [2022-6-27 20:19:33]
+[2022-6-27 20:19:33][file:explode.c,function:main,line:15] size_t = 8
+[2022-6-27 20:19:33][file:explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 20:19:33][file:explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 20:19:33][file:explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 20:19:33][file:explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 20:19:33][file:explode.c,function:main,line:20] int  = 4
+[2022-6-27 20:19:33][file:explode.c,function:main,line:21] long = 8
+[2022-6-27 20:19:33][file:explode.c,function:main,line:22] char = 1
+[2022-6-27 20:19:33][file:explode.c,function:main,line:23] float = 4
+[2022-6-27 20:19:33][file:explode.c,function:main,line:24] long long  = 8
+[2022-6-27 20:19:34][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 20:19:34][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:19:34][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:19:34][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 20:19:34][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 20:19:34][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 20:19:34][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 20:19:33][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 20:19:33][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 20:19:33][file:explode.c,function:main,line:36] [2022-6-27 20:19:33]
+[2022-6-27 23:43:30][file:explode.c,function:main,line:15] size_t = 8
+[2022-6-27 23:43:30][file:explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 23:43:30][file:explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 23:43:30][file:explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 23:43:30][file:explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 23:43:30][file:explode.c,function:main,line:20] int  = 4
+[2022-6-27 23:43:30][file:explode.c,function:main,line:21] long = 8
+[2022-6-27 23:43:30][file:explode.c,function:main,line:22] char = 1
+[2022-6-27 23:43:30][file:explode.c,function:main,line:23] float = 4
+[2022-6-27 23:43:30][file:explode.c,function:main,line:24] long long  = 8
+[2022-6-27 23:43:30][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 23:43:30][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 23:43:30][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 23:43:30][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 23:43:30][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 23:43:30][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 23:43:30][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 23:43:30][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 23:43:30][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 23:43:30][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 23:43:30][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 23:43:30][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 23:43:30][file:explode.c,function:main,line:36] [2022-6-27 23:43:30]
+[2022-6-27 23:45:18][file:explode.c,function:main,line:15] size_t = 8
+[2022-6-27 23:45:18][file:explode.c,function:main,line:16] uint64_t = 8
+[2022-6-27 23:45:18][file:explode.c,function:main,line:17] uint16_t = 2
+[2022-6-27 23:45:18][file:explode.c,function:main,line:18] uint8_t = 1
+[2022-6-27 23:45:18][file:explode.c,function:main,line:19] uint32_t = 4
+[2022-6-27 23:45:18][file:explode.c,function:main,line:20] int  = 4
+[2022-6-27 23:45:18][file:explode.c,function:main,line:21] long = 8
+[2022-6-27 23:45:18][file:explode.c,function:main,line:22] char = 1
+[2022-6-27 23:45:18][file:explode.c,function:main,line:23] float = 4
+[2022-6-27 23:45:18][file:explode.c,function:main,line:24] long long  = 8
+[2022-6-27 23:45:18][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-6-27 23:45:18][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 23:45:18][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 23:45:18][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-6-27 23:45:18][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-6-27 23:45:18][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-6-27 23:45:18][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-6-27 23:45:18][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-6-27 23:45:18][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-6-27 23:45:18][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-6-27 23:45:18][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-6-27 23:45:18][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-6-27 23:45:18][file:explode.c,function:main,line:36] [2022-6-27 23:45:18]
+[2022-7-8 22:39:15][file:explode.c,function:main,line:15] size_t = 8
+[2022-7-8 22:39:15][file:explode.c,function:main,line:16] uint64_t = 8
+[2022-7-8 22:39:15][file:explode.c,function:main,line:17] uint16_t = 2
+[2022-7-8 22:39:15][file:explode.c,function:main,line:18] uint8_t = 1
+[2022-7-8 22:39:15][file:explode.c,function:main,line:19] uint32_t = 4
+[2022-7-8 22:39:15][file:explode.c,function:main,line:20] int  = 4
+[2022-7-8 22:39:15][file:explode.c,function:main,line:21] long = 8
+[2022-7-8 22:39:15][file:explode.c,function:main,line:22] char = 1
+[2022-7-8 22:39:15][file:explode.c,function:main,line:23] float = 4
+[2022-7-8 22:39:15][file:explode.c,function:main,line:24] long long  = 8
+[2022-7-8 22:39:15][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-7-8 22:40:06][file:explode.c,function:main,line:16] size_t = 8
+[2022-7-8 22:40:06][file:explode.c,function:main,line:17] uint64_t = 8
+[2022-7-8 22:40:06][file:explode.c,function:main,line:18] uint16_t = 2
+[2022-7-8 22:40:06][file:explode.c,function:main,line:19] uint8_t = 1
+[2022-7-8 22:40:06][file:explode.c,function:main,line:20] uint32_t = 4
+[2022-7-8 22:40:06][file:explode.c,function:main,line:21] int  = 4
+[2022-7-8 22:40:06][file:explode.c,function:main,line:22] long = 8
+[2022-7-8 22:40:06][file:explode.c,function:main,line:23] char = 1
+[2022-7-8 22:40:06][file:explode.c,function:main,line:24] float = 4
+[2022-7-8 22:40:06][file:explode.c,function:main,line:25] long long  = 8
+[2022-7-8 22:40:06][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-7-8 22:40:06][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:06][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:06][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:06][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-7-8 22:40:06][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-7-8 22:40:06][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-7-8 22:40:06][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-7-8 22:40:06][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-7-8 22:40:06][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-7-8 22:40:06][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-7-8 22:40:06][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-7-8 22:40:06][file:explode.c,function:main,line:37] [2022-7-8 22:40:06]
+[2022-7-8 22:40:06][file:explode.c,function:main,line:38] cpu个数目:2
+[2022-7-8 22:40:10][file:explode.c,function:main,line:16] size_t = 8
+[2022-7-8 22:40:10][file:explode.c,function:main,line:17] uint64_t = 8
+[2022-7-8 22:40:10][file:explode.c,function:main,line:18] uint16_t = 2
+[2022-7-8 22:40:10][file:explode.c,function:main,line:19] uint8_t = 1
+[2022-7-8 22:40:10][file:explode.c,function:main,line:20] uint32_t = 4
+[2022-7-8 22:40:10][file:explode.c,function:main,line:21] int  = 4
+[2022-7-8 22:40:10][file:explode.c,function:main,line:22] long = 8
+[2022-7-8 22:40:10][file:explode.c,function:main,line:23] char = 1
+[2022-7-8 22:40:10][file:explode.c,function:main,line:24] float = 4
+[2022-7-8 22:40:10][file:explode.c,function:main,line:25] long long  = 8
+[2022-7-8 22:40:10][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-7-8 22:40:10][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:10][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:10][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:10][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-7-8 22:40:10][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-7-8 22:40:10][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-7-8 22:40:10][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-7-8 22:40:10][file:explode.c,function:main,line:37] [2022-7-8 22:40:10]
+[2022-7-8 22:40:10][file:explode.c,function:main,line:38] cpu个数目:2
+[2022-7-8 22:40:10][file:explode.c,function:main,line:16] size_t = 8
+[2022-7-8 22:40:10][file:explode.c,function:main,line:17] uint64_t = 8
+[2022-7-8 22:40:10][file:explode.c,function:main,line:18] uint16_t = 2
+[2022-7-8 22:40:10][file:explode.c,function:main,line:19] uint8_t = 1
+[2022-7-8 22:40:10][file:explode.c,function:main,line:20] uint32_t = 4
+[2022-7-8 22:40:10][file:explode.c,function:main,line:21] int  = 4
+[2022-7-8 22:40:10][file:explode.c,function:main,line:22] long = 8
+[2022-7-8 22:40:10][file:explode.c,function:main,line:23] char = 1
+[2022-7-8 22:40:10][file:explode.c,function:main,line:24] float = 4
+[2022-7-8 22:40:10][file:explode.c,function:main,line:25] long long  = 8
+[2022-7-8 22:40:10][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-7-8 22:40:10][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:10][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:10][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:40:10][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-7-8 22:40:10][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-7-8 22:40:10][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-7-8 22:40:10][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-7-8 22:40:10][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-7-8 22:40:10][file:explode.c,function:main,line:37] [2022-7-8 22:40:10]
+[2022-7-8 22:40:10][file:explode.c,function:main,line:38] cpu个数目:2
+[2022-7-8 22:41:33][file:explode.c,function:main,line:16] size_t = 8
+[2022-7-8 22:41:33][file:explode.c,function:main,line:17] uint64_t = 8
+[2022-7-8 22:41:33][file:explode.c,function:main,line:18] uint16_t = 2
+[2022-7-8 22:41:33][file:explode.c,function:main,line:19] uint8_t = 1
+[2022-7-8 22:41:33][file:explode.c,function:main,line:20] uint32_t = 4
+[2022-7-8 22:41:33][file:explode.c,function:main,line:21] int  = 4
+[2022-7-8 22:41:33][file:explode.c,function:main,line:22] long = 8
+[2022-7-8 22:41:33][file:explode.c,function:main,line:23] char = 1
+[2022-7-8 22:41:33][file:explode.c,function:main,line:24] float = 4
+[2022-7-8 22:41:33][file:explode.c,function:main,line:25] long long  = 8
+[2022-7-8 22:41:33][file:list.c,function:print_list,line:38] list info:1	23	23	43	
+[2022-7-8 22:41:33][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:41:33][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:41:33][file:sqlite.c,function:sqlite3_main,line:67] 
+[2022-7-8 22:41:33][file:sqlite.c,function:get_table_cb,line:10] name:[version]:value[0.0.2]
+[2022-7-8 22:41:33][file:sqlite.c,function:get_table_cb,line:10] name:[name]:value[expolde]
+[2022-7-8 22:41:33][file:sqlite.c,function:get_table_cb,line:10] name:[time]:value[2022-06-26]
+[2022-7-8 22:41:33][file:hashmap.c,function:hashmap_main,line:170] The hash size :3
+[2022-7-8 22:41:33][file:hashmap.c,function:print_hashtable,line:150] ------------------------HASH_TABLE__________________________
+[2022-7-8 22:41:33][file:hashmap.c,function:print_hashtable,line:156] [1]  key=1  value=1,  stat=1
+[2022-7-8 22:41:33][file:hashmap.c,function:print_hashtable,line:156] [2]  key=2  value=2,  stat=1
+[2022-7-8 22:41:33][file:hashmap.c,function:print_hashtable,line:156] [34]  key=34  value=1,  stat=1
+[2022-7-8 22:41:33][file:explode.c,function:main,line:37] [2022-7-8 22:41:33]
+[2022-7-8 22:41:33][file:explode.c,function:main,line:38] cpu个数目:2
+[2022-7-8 22:41:33][file:explode.c,function:main,line:39] 可用cpu个数:2
