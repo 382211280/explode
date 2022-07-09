@@ -3,7 +3,7 @@
  * @Description: Copyright by zhaodejin
  * @Author: zhaodejin 382211280@qq.com
  * @Date: 2022-07-09 00:35:12
- * @LastEditTime: 2022-07-10 00:00:21
+ * @LastEditTime: 2022-07-09 23:58:24
  * @FilePath: /explode/ex_event.c
  */
 #include "ex_event.h"
@@ -156,13 +156,6 @@ int event_main()
         goto lab_ret;
     }
 lab_ret:
-    if(g_base)
-    {
-        event_base_free(g_base);
-    }
-    if(ev_conf)
-    {
-        event_config_free(ev_conf);
-    }
+
     return ret;
 }

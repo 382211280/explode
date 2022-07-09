@@ -3,7 +3,7 @@
  * @Description: Copyright by zhaodejin
  * @Author: zhaodejin 382211280@qq.com
  * @Date: 2022-07-09 00:35:12
- * @LastEditTime: 2022-07-10 00:00:21
+ * @LastEditTime: 2022-07-09 23:36:17
  * @FilePath: /explode/ex_event.c
  */
 #include "ex_event.h"
@@ -23,16 +23,17 @@ void read_cb(struct bufferevent *pbuffer, void *data)
     {
         goto labal_ret;
     }
-    char sys_name[50]={0};
+    char sys_name[30]={0};
     read(fp, (void *)sys_name, 50);
-    printf("[recv]:%s", buff);
+    sys_name[strlen(sys_name) - 1] = '\0';
+    printf("[recv]:%s\n", buff);
     if (strstr(buff, "quit"))
     {
         s8 quit_info[256] = {0};
         struct passwd *pwd;
         pwd = getpwuid(getuid());
-        snprintf(quit_info, 256, "user [%s] will close connect\nsystem info:%squit time:%s \n", pwd->pw_name, sys_name, get_cur_time());
-        printf("%s",quit_info);
+        snprintf(quit_info, 256, "%s will close connect,system info:%s\nquit time:%s \n", pwd->pw_name, sys_name, get_cur_time());
+        printf("%s\n", quit_info);
         bufferevent_free(pbuffer);
     }
     struct event_base *tmp_base = (struct event_base *)data;
@@ -55,7 +56,6 @@ void write_cb(struct bufferevent *p_buff, void *data)
     {
         return;
     }
-    bufferevent_write(p_buff,"[OK]",5);
 }
 
 // TODO
@@ -124,9 +124,7 @@ int event_main()
     // TODO
     struct evconnlistener *e_listener = NULL;
     struct sockaddr_in severaddr = {0};
-    struct event_config *ev_conf= event_config_new();
-    g_base = event_base_new_with_config(ev_conf);
-    event_config_set_flag(ev_conf,EV_FEATURE_ET);
+    g_base = event_base_new();
     // TODO
     if (g_base == NULL)
     {
@@ -156,13 +154,6 @@ int event_main()
         goto lab_ret;
     }
 lab_ret:
-    if(g_base)
-    {
-        event_base_free(g_base);
-    }
-    if(ev_conf)
-    {
-        event_config_free(ev_conf);
-    }
+
     return ret;
 }

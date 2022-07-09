@@ -3,7 +3,7 @@
  * @Description: Copyright by zhaodejin
  * @Author: zhaodejin 382211280@qq.com
  * @Date: 2022-07-09 00:35:12
- * @LastEditTime: 2022-07-10 00:00:21
+ * @LastEditTime: 2022-07-09 23:49:46
  * @FilePath: /explode/ex_event.c
  */
 #include "ex_event.h"
@@ -124,9 +124,8 @@ int event_main()
     // TODO
     struct evconnlistener *e_listener = NULL;
     struct sockaddr_in severaddr = {0};
-    struct event_config *ev_conf= event_config_new();
-    g_base = event_base_new_with_config(ev_conf);
-    event_config_set_flag(ev_conf,EV_FEATURE_ET);
+    g_base = event_base_new();
+    event_config_new();
     // TODO
     if (g_base == NULL)
     {
@@ -156,13 +155,6 @@ int event_main()
         goto lab_ret;
     }
 lab_ret:
-    if(g_base)
-    {
-        event_base_free(g_base);
-    }
-    if(ev_conf)
-    {
-        event_config_free(ev_conf);
-    }
+
     return ret;
 }

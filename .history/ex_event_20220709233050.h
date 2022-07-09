@@ -2,7 +2,7 @@
  * @Author: error: git config user.name && git config user.email & please set dead value or install git
  * @Date: 2022-07-09 00:35:12
  * @LastEditors: zhaodejin
- * @LastEditTime: 2022-07-09 23:48:39
+ * @LastEditTime: 2022-07-09 23:30:07
  * @FilePath: /explode/ex_event.h
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -24,7 +24,6 @@
 #include <event2/bufferevent.h>
 #include <event2/buffer_compat.h>
 #include <event2/buffer.h>
-#include <event2/event-config.h>
 //!自定义端口
 #define SERVER_PORT 9090
 //!定义全局eventbase
@@ -34,9 +33,9 @@ static struct evconnlistener *g_event_listener =NULL;
 
 //user info 
 typedef struct usr_info_s{
-    char usr_name[100];
-    char usr_system[100];
-    char quit_time[100];
+    s8 usr_name[100];
+    s8 usr_system[100];
+    s8 quit_time[100];
 }usr_info;
 //#服务端实现
 int event_main();
