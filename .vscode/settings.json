@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "pub.h": "c",
+        "ex_event.h": "c"
+    }
+}

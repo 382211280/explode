@@ -3,7 +3,7 @@
  * @Description: Copyright by zhaodejin
  * @Author: zhaodejin 382211280@qq.com
  * @Date: 2022-07-09 00:35:12
- * @LastEditTime: 2022-07-09 22:49:44
+ * @LastEditTime: 2022-07-09 22:37:29
  * @FilePath: /explode/ex_event.c
  */
 #include "ex_event.h"
@@ -11,31 +11,30 @@
 #include "pub.h"
 
 // TODO
-void read_cb(struct bufferevent *pbuffer, void *data)
+void read_cb(struct bufferevent *pbuffer,void *data)
 {
-    int recvlen = 0;
-    char buff[1024] = {0};
-    recvlen = bufferevent_read(pbuffer, buff, sizeof(buff));
-    printf("recv:%s\n", buff);
-    if (strstr(buff, "quit"))
+    int recvlen=0;
+    char buff[1024]={0};
+    recvlen = bufferevent_read(pbuffer,buff,sizeof(buff));
+    printf("recv:%s\n",buff);
+    if(strstr(buff,"quit"))
     {
-        printf("will close connect\n");
+        printf("will close connect");
         sleep(2);
         bufferevent_free(pbuffer);
-    }
-    struct event_base *tmp_base = (struct event_base*)data;
-    if(NULL !=tmp_base)
-    {
-        event_base_free(tmp_base);
+        if(NULL!=g_base)
+        {
+            event_base_free(g_base);
+        }
+
     }
 labal_ret:
     return;
 }
 
 // TODO
-void write_cb(struct bufferevent *p_buff, void *data)
-{
-    if (NULL == p_buff)
+void write_cb(struct bufferevent *p_buff,void *data){
+    if(NULL==p_buff)
     {
         return;
     }
@@ -53,7 +52,7 @@ void listen_cb(struct evconnlistener *p_listener, evutil_socket_t fd, struct soc
     u64 fd_keep_idle = 60;
     u64 fd_keep_interval = 20;
     u64 fd_keep_count = 3;
-    struct event_base *tmp_base = (struct event_base *)data;
+
     // TODO
     if (fd < 0)
     {
@@ -73,7 +72,7 @@ void listen_cb(struct evconnlistener *p_listener, evutil_socket_t fd, struct soc
         goto lab_ret;
     }
     // TODO
-    bufferevent_setcb(p_evbuffer, read_cb, write_cb, NULL, tmp_base);
+    bufferevent_setcb(p_evbuffer, read_cb, write_cb, NULL, NULL);
     ret = bufferevent_enable(p_evbuffer, EV_READ | EV_WRITE | EV_PERSIST);
     if (ret != ERR_SUCCESS)
     {

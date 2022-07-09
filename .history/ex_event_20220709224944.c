@@ -73,7 +73,7 @@ void listen_cb(struct evconnlistener *p_listener, evutil_socket_t fd, struct soc
         goto lab_ret;
     }
     // TODO
-    bufferevent_setcb(p_evbuffer, read_cb, write_cb, NULL, tmp_base);
+    bufferevent_setcb(p_evbuffer, read_cb, write_cb, NULL, g_base);
     ret = bufferevent_enable(p_evbuffer, EV_READ | EV_WRITE | EV_PERSIST);
     if (ret != ERR_SUCCESS)
     {

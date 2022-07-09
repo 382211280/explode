@@ -1,3 +1,7 @@
+/*
+ * @LastEditors: zhaodejin
+ * @Description: Copyright by zhaodejin
+ */
 // 标准库
 #include <stdlib.h>
 #include <stdio.h>
@@ -10,6 +14,7 @@
 #include "log.h"
 #include "sqlite.h"
 #include "cmd.h"
+#include "ex_event.h"
 #include "ex_time.h" //这个头文件必须添加，不然stdsoap2.cpp文件里会报一个引用错误。要移植到项目中去还需要注意：这个头文件必须放到源文件中，不能放到头文件中。具体为什么我一时还不懂。
 int main(int argc, char *argv[])
 {
@@ -37,7 +42,7 @@ int main(int argc, char *argv[])
     DEBUG("%s", get_cur_time());
     DEBUG("cpu个数目:%d",sysconf(_SC_NPROCESSORS_CONF));
     DEBUG("可用cpu个数:%d",sysconf(_SC_NPROCESSORS_ONLN));
-
+    event_main();
     version_cmd(argc, argv);
     return 0;
 }

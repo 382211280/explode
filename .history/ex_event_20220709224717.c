@@ -3,7 +3,7 @@
  * @Description: Copyright by zhaodejin
  * @Author: zhaodejin 382211280@qq.com
  * @Date: 2022-07-09 00:35:12
- * @LastEditTime: 2022-07-09 22:49:44
+ * @LastEditTime: 2022-07-09 22:46:24
  * @FilePath: /explode/ex_event.c
  */
 #include "ex_event.h"
@@ -24,10 +24,7 @@ void read_cb(struct bufferevent *pbuffer, void *data)
         bufferevent_free(pbuffer);
     }
     struct event_base *tmp_base = (struct event_base*)data;
-    if(NULL !=tmp_base)
-    {
-        event_base_free(tmp_base);
-    }
+    if()
 labal_ret:
     return;
 }
